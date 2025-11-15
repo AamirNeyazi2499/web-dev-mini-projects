@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#choices {
+    margin: 20px 0;
+}
+
+.choice {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 1.2em;
+    cursor: pointer;
+    background-color: #f0f0f0;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+.choice:hover {
+    background-color: #e0e0e0;
+}
+
+#results {
+    margin: 20px 0;
+    font-size: 1.1em;
+}
+
+#score {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+#reset {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #ffcccc;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+#reset:hover {
+    background-color: #ffaaaa;
+}
