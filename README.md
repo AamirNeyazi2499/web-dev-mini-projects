@@ -39,7 +39,7 @@ Each project focuses on a specific concept or feature to improve frontend develo
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/web-dev-mini-projects.git
+   git clone https://github.com/aamirneyazi2499/web-dev-mini-projects.git
 
 
 ---
@@ -48,7 +48,7 @@ Each project focuses on a specific concept or feature to improve frontend develo
 
 **Aamir Neyazi**
 
-- GitHub: [@AamirNeyazi2499](https://github.com/AamirNeyazi2499)
-- LinkedIn: [Aamir Neyazi](https://www.linkedin.com/in/aamirneyazi/)
+- GitHub:https://github.com/AamirNeyazi2499
+- LinkedIn:https://www.linkedin.com/in/aamirneyazi/
 
 ---
