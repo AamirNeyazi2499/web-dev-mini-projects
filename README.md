@@ -40,3 +40,15 @@ Each project focuses on a specific concept or feature to improve frontend develo
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/web-dev-mini-projects.git
+
+
+---
+
+## 👨‍💻 Author
+
+**Aamir Neyazi**
+
+- GitHub: [@AamirNeyazi2499](https://github.com/AamirNeyazi2499)
+- LinkedIn: [Aamir Neyazi](https://www.linkedin.com/in/aamirneyazi/)
+
+---
