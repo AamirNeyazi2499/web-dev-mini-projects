@@ -18,6 +18,7 @@ Each project focuses on a specific concept or feature to improve frontend develo
 | 2 | **BMI Calculator** | Calculates Body Mass Index based on user input |
 | 3 | **Digital Clock** | Displays the current time that updates every second |
 | 4 | **Guess The Number** | A fun number guessing game built with JavaScript logic |
+| 5 | **UNlimited Colours** | |
 
 ---
 
