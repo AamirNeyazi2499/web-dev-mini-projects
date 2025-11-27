@@ -1,4 +1,4 @@
-# Web Development Mini Projects
+# Web Development Mini Projects 
 
 This repository contains a series of mini projects built while learning **HTML, CSS, and JavaScript**.  
 Each project focuses on a specific concept or feature to improve frontend development skills.
