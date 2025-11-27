@@ -5,7 +5,7 @@ Each project focuses on a specific concept or feature to improve frontend develo
 
 ---
 
-## 📂 Project List 
+## 📂 Project List  
 
 
 ---
